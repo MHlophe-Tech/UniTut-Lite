@@ -1,0 +1,128 @@
+{
+  "project_info": {
+    "project_number": "733168483196",
+    "firebase_url": "https://uni-tut.firebaseio.com",
+    "project_id": "uni-tut",
+    "storage_bucket": "uni-tut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733168483196:android:30fa6e504b722864ac82f9",
+        "android_client_info": {
+          "package_name": "mhlophetech.unitut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733168483196-5jt89250cdbkhmc32kbg8qqqtgogj726.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mhlophetech.unitut",
+            "certificate_hash": "34260c8cb870d52722af99052132a51785bd38e0"
+          }
+        },
+        {
+          "client_id": "733168483196-fijvgdovkq5a99kjbngu58lovk3u53lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6N7yGXB1-nE9K2f1lRTwImPaRoUq53I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733168483196-19d6dcpu09itdlpr1uv4nb9iekskf6fo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733168483196-cb74mne409d1stbnjeudb3aq2tmkp5qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mhlophetech.unitut.game"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8286573828419993~5761831449"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733168483196:android:24791da99c14a299ac82f9",
+        "android_client_info": {
+          "package_name": "mhlophetech.unitut.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733168483196-fijvgdovkq5a99kjbngu58lovk3u53lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6N7yGXB1-nE9K2f1lRTwImPaRoUq53I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733168483196-19d6dcpu09itdlpr1uv4nb9iekskf6fo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733168483196-cb74mne409d1stbnjeudb3aq2tmkp5qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mhlophetech.unitut.game"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733168483196:android:933dc3b0a381ca25ac82f9",
+        "android_client_info": {
+          "package_name": "mhlophetech.unitut.lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733168483196-fijvgdovkq5a99kjbngu58lovk3u53lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6N7yGXB1-nE9K2f1lRTwImPaRoUq53I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733168483196-19d6dcpu09itdlpr1uv4nb9iekskf6fo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733168483196-cb74mne409d1stbnjeudb3aq2tmkp5qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mhlophetech.unitut.game"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
