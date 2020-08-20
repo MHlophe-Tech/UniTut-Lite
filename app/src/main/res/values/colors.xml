@@ -3,4 +3,7 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="btnCorrectAnswerColor">#007000</color>
+    <color name="btnDefaultColor">#000000</color>
+    <color name="btnWrongColor">#990000</color>
 </resources>

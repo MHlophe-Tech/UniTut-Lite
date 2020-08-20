@@ -43,6 +43,12 @@
             android:orientation="vertical">
 
             <Button
+                android:id="@+id/btnDemo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="demo" />
+
+            <Button
                 android:id="@+id/btnMaths"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

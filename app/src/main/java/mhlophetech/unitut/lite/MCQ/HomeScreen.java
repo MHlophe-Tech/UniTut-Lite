@@ -12,7 +12,7 @@ import mhlophetech.unitut.lite.R;
 
 public class HomeScreen extends AppCompatActivity {
 
-    Button btnMaths, btnPhysics, btnGeography, btnMathsLit;
+    Button btnMaths, btnPhysics, btnGeography, btnMathsLit, btnDemo;
 
 
     @Override
@@ -25,16 +25,20 @@ public class HomeScreen extends AppCompatActivity {
         btnMaths =  findViewById(R.id.btnMaths);
         btnPhysics = findViewById(R.id.btnPhysics);
         btnMathsLit = findViewById(R.id.btnMathsLit);
+        btnDemo = findViewById(R.id.btnDemo);
 
-        btnMaths.setOnClickListener(new View.OnClickListener() {
+        btnDemo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent Home = new Intent(HomeScreen.this, QuestionScreen.class);
-                Home.putExtra("topic", "maths");
-                Home.putExtra("lol", true);
-                startActivity(Home);
+                gotoSreen("Demo");
             }
         });
 
+    }
+
+    private void gotoSreen(String strTopic){
+        Intent Home = new Intent(HomeScreen.this, QuestionScreen.class);
+        Home.putExtra("topic", strTopic);
+        startActivity(Home);
     }
 }
